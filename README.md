@@ -27,7 +27,7 @@ cp agents/pr-reviewer.md .claude/agents/
 
 ### Option 3: One-liner (if downloaded)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/pr-reviewer/main/agents/pr-reviewer.md -o ~/.claude/agents/pr-reviewer.md
+curl -fsSL https://raw.githubusercontent.com/techspell01/pr-reviewer/main/agents/pr-reviewer.md -o ~/.claude/agents/pr-reviewer.md
 ```
 
 ## Usage
